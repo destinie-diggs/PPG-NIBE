@@ -1,9 +1,16 @@
 # PPG-NIBE Dataset
-This work introduces a data curation and preprocessing pipeline that filters the expansive VitalDB dataset into a domain-specific, well-organized subset for photoplethsmoagraphy (PPG) based non-invasive blood glucose estimation research, providing a clear and accessible starting point for future research.
+The PPG-NIBE dataset provides carefully selected, cleaned,and organized data from the VitalDB Open Dataset, curated to provide high quality, relevant, accurate, and reuseable data, to accelerate research and development for Non-invasive Blood Glucose Estimation.
+
+
 
 ## Description
+This work introduces a curated organized subdataset from the VitalDB vital signs database for photoplethsmoagraphy (PPG) based non-invasive blood glucose estimation (NIBE) research.
 
-An in-depth paragraph about your project and overview of use.
+VitalDB contains high-resolution multi-parameter data from 6,388 cases, including 486,451 waveform and numeric data tracks of 196 intraoperative monitoring parameters, 73 perioperative clinical parameters, and 34 time-series laboratory result parameters. 
+
+VitalDB is trustworthy, reliable, and frequently used in AI/ML in many fields. Previous research on non-invasive blood glucose estimation methods have found success in using this dataset for model training and development. 
+
+With such a large dataset, researchers must first filter and select the relevant features from VitalDB for NIBE model development. By reducing dataset size and organizing relevant features for PPG-based NIBE, this work lowers the barrier to entry for researchers in the field. 
 
 ## Getting Started
 See wiki.
