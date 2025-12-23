@@ -1,18 +1,16 @@
 # PPG-NIBE Dataset
 
-The **PPG-NIBE dataset** provides carefully selected, cleaned, and organized data from the **VitalDB Open Dataset**. It has been curated to provide **high-quality, relevant, accurate, and reusable data** to accelerate research and development for **Non-Invasive Blood Glucose Estimation (NIBE).**
-
----
+The **PPG-NIBE dataset** provides carefully selected, cleaned, and organized data from the **VitalDB Open Dataset**. It has been curated to provide high-quality, relevant, accurate, and reusable data to accelerate research and development for Non-Invasive Blood Glucose Estimation (NIBE).
 
 ## Description
 
-This work introduces a **curated and organized sub-dataset** from the VitalDB vital signs database specifically for **photoplethysmography (PPG)** based NIBE research.
+This work introduces a curated and organized sub-dataset from the VitalDB vital signs database specifically for photoplethysmography (PPG) based NIBE research.
 
 **VitalDB Overview:**
 - High-resolution, multi-parameter data from **6,388 cases**
-- **486,451 waveform and numeric data tracks** across 196 intraoperative monitoring parameters
-- **73 perioperative clinical parameters**
-- **34 time-series laboratory result parameters**
+- **486,451** waveform and numeric data tracks across **196** intraoperative monitoring parameters
+- **73** perioperative clinical parameters
+- **34** time-series laboratory result parameters
 
 **Why VitalDB?**
 - Proven to be **trustworthy and reliable**  
