@@ -13,7 +13,7 @@ VitalDB is trustworthy, reliable, and frequently used in AI/ML in many fields. P
 With such a large dataset, researchers must first filter and select the relevant features from VitalDB for NIBE model development. By reducing dataset size and organizing relevant features for PPG-based NIBE, this work lowers the barrier to entry for researchers in the field. 
 
 ## Getting Started
-For detailed description of selected data and pipeline see [[wiki]].
+For detailed description of selected data and pipeline see [Wiki](https://github.com/destinie-diggs/PPG-NIBE/wiki).
 
 ### Dependencies
 
