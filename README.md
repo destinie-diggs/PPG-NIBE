@@ -25,7 +25,7 @@ This work introduces a curated and organized sub-dataset from the VitalDB vital 
 By curating a smaller, relevant dataset, researchers can quickly start model development without needing to preprocess or filter the full VitalDB dataset themselves.
 
 ## Getting Started
-For detailed description of selected data and pipeline see [Wiki](https://github.com/destinie-diggs/PPG-NIBE/wiki).
+For detailed documentation of selected data and pipeline see [Wiki](https://github.com/destinie-diggs/PPG-NIBE/wiki).
 
 ### Dependencies
 
