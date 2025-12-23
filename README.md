@@ -1,12 +1,12 @@
 # PPG-NIBE Dataset
-
-This work curates a domain-specific subset of the larger VitalDB dataset. 
+This work introduces a data curation and preprocessing pipeline that filters the expansive VitalDB dataset into a domain-specific, well-organized subset for photoplethsmoagraphy (PPG) based non-invasive blood glucose estimation research, providing a clear and accessible starting point for future research.
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
+See wiki.
 
 ### Dependencies
 
