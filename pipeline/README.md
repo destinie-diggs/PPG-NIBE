@@ -9,7 +9,7 @@ deterministic output file.
 
 ---
 
-## Pipeline Overview
+## Pipeline Overview - Expected output
     Raw VitalDB lab results (35,358 BG samples)
 
     └─ Script 1 → labs_gluc_only_2.csv (8,847 samples)
@@ -23,3 +23,4 @@ deterministic output file.
                 └─ Script 5 → Recovers previously excluded samples for 8 min windows (7287 samples)
             
 
+__For detailed pipeline review see [Wiki Data Pipeline](https://github.com/destinie-diggs/PPG-NIBE/wiki/Data-Curation-Pipeline)__
