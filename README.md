@@ -79,5 +79,10 @@ This project is licensed under the [NAME HERE] License - see the LICENSE.md file
 ## Acknowledgments
 * [Vitaldb](https://vitaldb.net/dataset/?query=overview)
 
-https://github.com/destinie-diggs/PPG-NIBE/tree/main
+<div align="center">
+
+[README Home](https://github.com/destinie-diggs/PPG-NIBE/tree/main) | [WIKI](https://github.com/destinie-diggs/PPG-NIBE/wiki)
+
+</div>
+
 
