@@ -1,0 +1,5 @@
+row_num,error
+7590,row_index_out_of_range
+771,read_track_error:<urlopen error [Errno 54] Connection reset by peer>
+1175,read_track_error:<urlopen error [Errno 54] Connection reset by peer>
+7568,read_track_error:<urlopen error [Errno 54] Connection reset by peer>
