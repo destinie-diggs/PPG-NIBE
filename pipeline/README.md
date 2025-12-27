@@ -20,7 +20,7 @@ deterministic output file.
       
              └─ Script 4 → Per-sample 16 min PPG window CSVs (7,146 samples)
          
-                └─ Script 5 → Recovers previously excluded samples for 8 min windows (7287 samples)
+                └─ Script 5 → Recovers previously excluded samples for 8 min windows (7477 samples)
             
 
 __For detailed pipeline review see [Wiki Data Pipeline](https://github.com/destinie-diggs/PPG-NIBE/wiki/Data-Curation-Pipeline)__
