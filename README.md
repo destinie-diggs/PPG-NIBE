@@ -1,6 +1,6 @@
 # PPG-NIBE Dataset
 
-The **PPG-NIBE dataset** provides carefully selected, cleaned, and organized data from the **VitalDB Open Dataset**. It has been curated to provide high-quality, relevant, accurate, and reusable data to accelerate research and development for Non-Invasive Blood Glucose Estimation (NIBE).
+The PPG-NIBE dataset provides carefully selected, cleaned, and organized data from the VitalDB Open Dataset. It has been curated to provide high-quality, relevant, accurate, and reusable data to accelerate research and development for Non-Invasive Blood Glucose Estimation (NIBE).
 
 ## Description
 
